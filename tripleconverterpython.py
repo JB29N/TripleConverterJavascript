@@ -39,3 +39,4 @@ while askcontinue():
         print("The result is " + str(kilotopound(value)))
     elif kindofvalue == "liter":
         print("The result is " + str(litertom3(value)))
+    else: print("I can't do this conversion.")
